@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chain"
+    },
+    "X": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "poblados:vara_casita"
+  }
+}
