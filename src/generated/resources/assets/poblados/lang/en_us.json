@@ -1,0 +1,8 @@
+{
+  "block.poblados.caja_inmueble": "house box",
+  "block.poblados.caja_pobladora": "town box",
+  "item.poblados.vara_casita": "home stick",
+  "item.poblados.vara_calle_recta": "straight road stick",
+  "item.poblados.vara_camino": "road stick",
+  "itemGroup.poblados": "Poblados tools"
+}

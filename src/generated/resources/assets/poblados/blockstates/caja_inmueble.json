@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "poblados:block/caja_inmueble"
+    }
+  }
+}

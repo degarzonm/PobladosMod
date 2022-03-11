@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "poblados:item/vara_calle_recta"
+    }
+  }
