@@ -135,8 +135,7 @@ public class Ayudante {
         player.getPersistentData().putInt(key+ "x"+i, b.getX());
         player.getPersistentData().putInt(key+ "y"+i, b.getY());
         player.getPersistentData().putInt(key+ "z"+i, b.getZ());
-        player.sendSystemMessage(
-                Component.literal("saved: " + key+i + ":(" + b.getX() + "," + b.getY() + "," + b.getZ() + ")"));
+        
     }
 
     // method that gets persistent data from a player entity
@@ -150,7 +149,7 @@ public class Ayudante {
         player.getPersistentData().remove(key + "y0");
         player.getPersistentData().remove(key + "z0");
 
-        player.sendSystemMessage(Component.literal("consumed: " + key+ ":(" + P_1.getX() + "," + P_1.getY() + "," + P_1.getZ() + ")"));
+        //player.sendSystemMessage(Component.literal("consumed: " + key+ ":(" + P_1.getX() + "," + P_1.getY() + "," + P_1.getZ() + ")"));
         return P_1;
     }
 
