@@ -1,0 +1,12 @@
+{
+    "item.pobladosmod.vara_casa": "House Tool",
+    "item.pobladosmod.vara_camino": "Path Tool",
+    "item.pobladosmod.vara_muro": "Wall Tool",
+    "item.pobladosmod.vara_pared": "Wall Ground Tool",
+    "item.pobladosmod.vara_sala_rect": "Rect Room Tool",
+    "item.pobladosmod.vara_sala_vertex": "Vertex Room Tool",
+    "item.pobladosmod.vara_piso": "Floor Tool",
+    "item.pobladosmod.vara_techo": "Roof Tool",
+    "itemGroup.pobladosmodtab": "Poblados Tool Tab"
+    
+}
